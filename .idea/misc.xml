@@ -17,12 +17,18 @@
         <entry key="..\:/Users/tchen/Desktop/projects/Project5/Tchenstagram/app/src/main/res/layout/activity_main.xml" value="0.14719202898550723" />
         <entry key="..\:/Users/tchen/OneDrive/Documents/project5/Tchenstagram/app/src/main/res/layout/activity_login.xml" value="0.1213768115942029" />
         <entry key="..\:/Users/tchen/OneDrive/Documents/project5/Tchenstagram/app/src/main/res/layout/activity_main.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/tchen/Videos/Tchenstagram/app/src/main/res/drawable/button_state.xml" value="0.1" />
         <entry key="..\:/Users/tchen/Videos/Tchenstagram/app/src/main/res/layout/activity_feed.xml" value="0.22" />
         <entry key="..\:/Users/tchen/Videos/Tchenstagram/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/tchen/Videos/Tchenstagram/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/tchen/Videos/Tchenstagram/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/tchen/Videos/Tchenstagram/app/src/main/res/layout/activity_profile.xml" value="0.33" />
         <entry key="..\:/Users/tchen/Videos/Tchenstagram/app/src/main/res/layout/activity_signup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/tchen/Videos/Tchenstagram/app/src/main/res/layout/fargment_profile.xml" value="0.12681159420289856" />
+        <entry key="..\:/Users/tchen/Videos/Tchenstagram/app/src/main/res/layout/fragment_compose.xml" value="0.16" />
+        <entry key="..\:/Users/tchen/Videos/Tchenstagram/app/src/main/res/layout/fragment_feed.xml" value="0.12681159420289856" />
         <entry key="..\:/Users/tchen/Videos/Tchenstagram/app/src/main/res/layout/item_feed.xml" value="0.1" />
+        <entry key="..\:/Users/tchen/Videos/Tchenstagram/app/src/main/res/layout/item_post.xml" value="0.12681159420289856" />
+        <entry key="..\:/Users/tchen/Videos/Tchenstagram/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
