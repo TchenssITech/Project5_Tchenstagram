@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/TchenssITech/Project5_Tchenstagram/blob/f4f824073e4bebdef54d49cc7d060b898677646a/Tchenstagram1_tchenssitech.gif' />
 
-<img src='https://github.com/TchenssITech/Project5_Tchenstagram/blob/f4f824073e4bebdef54d49cc7d060b898677646a/Tchenstagram1_post_tchenssitech.gif' />
+<img src='https://github.com/TchenssITech/Project5_Tchenstagram/blob/8f23e611fe4af9810bf198d55105a36c8c05f457/Tchenstagram1_post_tchenssitech.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
